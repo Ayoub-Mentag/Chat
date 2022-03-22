@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Admin_API">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Admin_API/out/artifacts/Admin_API_jar/Admin_API.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

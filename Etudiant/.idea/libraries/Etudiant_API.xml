@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Etudiant_API">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Etudiant_API/out/artifacts/Etudiant_API_jar/Etudiant_API.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
